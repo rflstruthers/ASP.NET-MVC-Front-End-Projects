@@ -26,7 +26,7 @@ I had previously created a Cart Item Index View to display a shopping cart of se
 I then edited the layout of the _CartMobile.cshtml file to display appropriately for a mobile device.
 
 ### Tooltip for Button
-I was tasked with creating a tooltip that would display information to the user when the cursor was hovered over a Register button. I researched how to implement a tooltip and applied the following css to teh Register button.
+I was tasked with creating a tooltip that would display information to the user when the cursor was hovered over a Register button. I researched how to implement a tooltip and applied the following css to the Register button.
 
     .register {
     position: relative;
